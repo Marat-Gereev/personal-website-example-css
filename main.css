@@ -1,3 +1,16 @@
 body {
     font-family: 'Heebo', sans-serif;
 }
+
+._container {
+ max-width: 1152px;  
+ margin: 0 auto; 
+}
+
+.header {
+
+}
+
+.header__content {
+    max-width: 1032px;
+}
